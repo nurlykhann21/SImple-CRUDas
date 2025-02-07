@@ -6,7 +6,7 @@ This project is a web-based application that allows users to be added with a pic
 
 ## Team Members
 
-- **Ikboljon Abdurasulov** (Student Number: 42370)
+- **Nurlykhan Yessenzhan** (Student Number: 41505)
 
 ## Technologies Used
 
